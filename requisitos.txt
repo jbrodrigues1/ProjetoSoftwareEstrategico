@@ -1,1 +1,2 @@
-
+- Requisito 1: O sistema deve permitir login de usuários.
+- Requisito 2: O sistema deve armazenar logs de acesso.
